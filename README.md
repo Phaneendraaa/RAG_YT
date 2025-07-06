@@ -1,4 +1,7 @@
 # RAG_YT
+
+EXECUTION:
+
 REPLACE absolute paths of ffmpeg and cookies.txt file paths.
 
 Cookies.txt is a file that is downloaded using extension called Getcookies.txt from Browser
