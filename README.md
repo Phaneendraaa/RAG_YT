@@ -5,5 +5,7 @@ Cookies.txt is a file that is downloaded using extension called Getcookies.txt f
 
 CMD : pip install streamlit yt-dlp openai-whisper sentence-transformers faiss-cpu mistralai
 
-RUN : path/to/folder
-      streamlit run RAG_YT.py
+RUN : cd path/to/folder
+    : streamlit run RAG_YT.py
+
+Note : Run streamlit only from gitbash or cmd (Root)
